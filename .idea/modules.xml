@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbsoluteValuesSumMinization/AbsoluteValuesSumMinization.iml" filepath="$PROJECT_DIR$/AbsoluteValuesSumMinization/AbsoluteValuesSumMinization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Add/Add.iml" filepath="$PROJECT_DIR$/Add/Add.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AddBorder/AddBorder.iml" filepath="$PROJECT_DIR$/AddBorder/AddBorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AddTwoDigits/AddTwoDigits.iml" filepath="$PROJECT_DIR$/AddTwoDigits/AddTwoDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdjacentLargestValues/AdjacentLargestValues.iml" filepath="$PROJECT_DIR$/AdjacentLargestValues/AdjacentLargestValues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AllLargestString/AllLargestString.iml" filepath="$PROJECT_DIR$/AllLargestString/AllLargestString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlmostIncreasingSequence/AlmostIncreasingSequence.iml" filepath="$PROJECT_DIR$/AlmostIncreasingSequence/AlmostIncreasingSequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlphabeticShift/AlphabeticShift.iml" filepath="$PROJECT_DIR$/AlphabeticShift/AlphabeticShift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaAlgorithms.iml" filepath="$PROJECT_DIR$/.idea/JavaAlgorithms.iml" />
+    </modules>
+  </component>
+</project>
