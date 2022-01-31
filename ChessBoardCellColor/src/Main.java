@@ -21,7 +21,7 @@ public class Main
         return (numValueCell1 % 2 == 0 && numValueCell2 % 2 == 0) || (numValueCell1 % 2 != 0 && numValueCell2 % 2 != 0);
     }
 
-
+    
     public static void main(String[] args)
     {
         System.out.println(checkCellColor("a6","h7"));
